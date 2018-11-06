@@ -4,7 +4,7 @@ Songs in C are cool!
 
 I am practicing 'Push' command from my local computer to remote computer.
 
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+*usage:* git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
